@@ -20,8 +20,8 @@ Brain Tumor: 100% (CNN,VGG16)
 Outputs:
 
 1) Brain Tumor
-Input:
 
+Input:
 
 ![image](https://user-images.githubusercontent.com/69026838/197511401-16ebe14e-a5b5-4439-84b6-d584003eb72c.png)
 
