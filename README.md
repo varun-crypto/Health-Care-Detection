@@ -27,6 +27,7 @@ Input:
 
 
 Output:
+
 ![image](https://user-images.githubusercontent.com/69026838/197511370-3f4b4419-e805-455b-8f39-edd7dcf8a20a.png)
 
 
@@ -47,6 +48,7 @@ Output:
   ![image](https://user-images.githubusercontent.com/69026838/197512412-969a61bb-2183-4538-8536-ad513f528883.png)
   
   Output:
+  
   ![image](https://user-images.githubusercontent.com/69026838/197512438-3fba31b4-bf59-49ed-ade3-aec7ca58904b.png)
   
 4) Diabetes
