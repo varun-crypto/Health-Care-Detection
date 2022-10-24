@@ -1,4 +1,4 @@
-# Health-Care-Detection System
+# Health Care Diagnosis System
 This a web application used to diagnose 6 diseases like Alzheimer, Brain Tumor, Breast Cancer, Diabetes, Pneumonia and Heart Disease.
 
 Used various Machine learning and Deep learning methods like XGBoost, Random Forest, CNN, and VGG-16 for the classification of diseases into positive or neagtive.
