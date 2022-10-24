@@ -3,3 +3,15 @@ pandas
 mlxtend
 xgboost
 scikit-learn
+urllib
+flask 
+urllib
+os
+werkzeug
+cv2
+pickle
+imutils
+tensorflow.keras.models
+pushbullet
+joblib
+tensorflow.keras.applications.vgg16 
