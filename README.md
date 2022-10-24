@@ -6,8 +6,13 @@ Used various Machine learning and Deep learning methods like XGBoost, Random For
 Accuracies Achieved for each disease:
 
 pneumonia 83.17% (CNN)
+
 heart disease: 86.96% (XGBoost)
+
 Diabetes: 66.8% (Random Forest)
+
 alzheimer: 73.54% (CNN)
+
 breast cancer: 91.81% (Random Forest)
+
 brain tumor: 100% (CNN,VGG16)
